@@ -1,0 +1,5 @@
+E:\Angularjs\TSmeber\TSmeber\bin\TSmeber.dll
+E:\Angularjs\TSmeber\TSmeber\bin\TSmeber.pdb
+E:\Angularjs\TSmeber\TSmeber\obj\Debug\TSmeber.dll
+E:\Angularjs\TSmeber\TSmeber\obj\Debug\TSmeber.pdb
+E:\Angularjs\TSmeber\TSmeber\obj\Debug\TSmeber.csprojResolveAssemblyReference.cache
